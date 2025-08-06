@@ -1,4 +1,4 @@
-📈 #Real-Time-Cryptocurrency-Insights-Email-Automation
+ # Real-Time-Cryptocurrency-Insights-Email-Automation
 
 A Python-based tool that fetches real-time cryptocurrency data from CoinGecko, identifies the Top 10 Cryptos to Sell and Bottom 10 Cryptos to Buy, saves the results in a CSV file, and sends a daily email report—automatically every day at 8:00 AM.
 
